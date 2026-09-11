@@ -1,0 +1,4 @@
+interface:
+  display_name: "TokenPilot"
+  short_description: "Configure task-scoped model, reasoning, and Fast choices"
+  default_prompt: "Use $token-pilot to inspect available execution capabilities and propose a confirmed task plan."
